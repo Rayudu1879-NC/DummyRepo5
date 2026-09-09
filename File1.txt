@@ -3,3 +3,5 @@ this is from the file1
 this is second line for feature1 branch
 
 this is third line for feature1 branch
+
+this is fourth line for the main branch
